@@ -21,3 +21,5 @@ I need more microcontroller project ideas.
 Currently taking MOOC in machine learning using python. Im going really slow...
 
 I am currently learning [@kubernetes](https://github.com/kubernetes/kubernetes), [@etcd](https://github.com/etcd-io/etcd), and [@ansible](https://github.com/ansible/ansible). brb
+
+Public Key: [`89F4 69BC 33FB 8F6E`](https://keybase.io/kennedy/pgp_keys.asc)
