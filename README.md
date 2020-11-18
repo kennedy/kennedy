@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I usually like working and learning things in python.
+
 I need more microcontroller project ideas.
+
 Currently taking MOOC in machine learning using python. Im going really slow...
+
 I am currently learning [@kubernetes](https://github.com/kubernetes/kubernetes), [@etcd](https://github.com/etcd-io/etcd), and [@ansible](https://github.com/ansible/ansible). brb
