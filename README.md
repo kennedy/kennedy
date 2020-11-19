@@ -24,4 +24,4 @@ I am currently learning [@kubernetes](https://github.com/kubernetes/kubernetes),
 
 Public Key: [`89F4 69BC 33FB 8F6E`](https://keybase.io/kennedy/pgp_keys.asc)
 
-<img src="https://github-readme-stats.vercel.app/api?username=kennedy&show_icons=true&theme=gotham" alt="kennedy" />
+<img src="https://github-readme-stats.vercel.app/api?username=kennedy&show_icons=true&theme=dark&count_private=true&hide_title=true" alt="kennedy github score" />
