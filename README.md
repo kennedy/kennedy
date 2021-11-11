@@ -24,6 +24,4 @@ I am currently learning [@kubernetes](https://github.com/kubernetes/kubernetes),
 
 Public Key: [`89F4 69BC 33FB 8F6E`](https://keybase.io/kennedy/pgp_keys.asc)
 
-![Alt](https://repobeats.axiom.co/api/embed/607c9dd128121b8968ffc46a01324b8c7ca65cd5.svg "Repobeats analytics image")
-
 ![kennedy github score](https://github-readme-stats.vercel.app/api?username=kennedy&show_icons=true&theme=dark&count_private=true&hide_title=true)
