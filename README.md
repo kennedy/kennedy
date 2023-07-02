@@ -23,3 +23,5 @@ Currently taking MOOC in machine learning using python. Im going really slow...
 I am currently learning [@kubernetes](https://github.com/kubernetes/kubernetes), [@terraform](https://github.com/hashicorp/terraform), and [@next.js](https://github.com/vercel/next.js). brb
 
 Public Key: [`89F4 69BC 33FB 8F6E`](https://keybase.io/kennedy/pgp_keys.asc)
+
+omg.lol proof: proven.lol/bd79e3
