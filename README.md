@@ -24,4 +24,4 @@ I am currently learning [@kubernetes](https://github.com/kubernetes/kubernetes),
 
 Public Key: [`89F4 69BC 33FB 8F6E`](https://keybase.io/kennedy/pgp_keys.asc)
 
-omg.lol proof: proven.lol/bd79e3
+[omg.lol proof](https://proven.lol/bd79e3)
