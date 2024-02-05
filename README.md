@@ -16,11 +16,7 @@ Here are some ideas to get you started:
 -->
 I usually like working and learning things in python.
 
-I need more microcontroller project ideas.
-
-Currently taking MOOC in machine learning using python. Im going really slow...
-
-I am currently learning [@kubernetes](https://github.com/kubernetes/kubernetes), [@terraform](https://github.com/hashicorp/terraform), and [@next.js](https://github.com/vercel/next.js). brb
+I am currently learning [@next.js](https://github.com/vercel/next.js).
 
 Public Key: [`89F4 69BC 33FB 8F6E`](https://keybase.io/kennedy/pgp_keys.asc)
 
