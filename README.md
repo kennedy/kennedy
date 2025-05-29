@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 I usually like working and learning things in python.
 
-I am currently learning [@next.js](https://github.com/vercel/next.js).
+I am currently learning golang.
 
 Public Key: [`89F4 69BC 33FB 8F6E`](https://keybase.io/kennedy/pgp_keys.asc)
 
