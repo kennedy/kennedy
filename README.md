@@ -1,23 +1,14 @@
 ### Hi there 👋
 
-<!--
-**kennedy/kennedy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I write TypeScript, Serverless Framework, and Go.
 
-Here are some ideas to get you started:
+#### What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-I usually like working and learning things in python.
+- **[taloskubecluster](https://github.com/kennedy/taloskubecluster)** — Bare-metal Kubernetes homelab running Talos Linux with full GitOps via ArgoCD. 6 nodes (3 Intel control-plane + 3 ARM RK1 workers), Cilium CNI, cert-manager, Prometheus/Grafana, and a bunch of self-hosted apps.
+- **[cert-manager-webhook-omglol](https://github.com/kennedy/cert-manager-webhook-omglol)** — Go webhook that solves DNS-01 ACME challenges via the omg.lol API for Let's Encrypt wildcard certs.
+- **[cluster-status](https://github.com/kennedy/cluster-status)** — FastAPI service that queries Prometheus for cluster health and returns JSON for an Adafruit MagTag e-ink display.
 
-I am currently learning golang.
+#### Links
 
-Public Key: [`89F4 69BC 33FB 8F6E`](https://keybase.io/kennedy/pgp_keys.asc)
-
-[omg.lol proof](https://proven.lol/b61fbe)
+- PGP: [`89F4 69BC 33FB 8F6E`](https://keybase.io/kennedy/pgp_keys.asc)
+- [omg.lol proof](https://proven.lol/b61fbe)
