@@ -24,7 +24,7 @@ I build and maintain a bare-metal Kubernetes homelab — Go, Python, and a lot o
 
 #### Self-hosted apps
 
-Immich · Paperless-ngx · Audiobookshelf · Home Assistant · Pi-hole · Filestash
+[Immich](https://photos.kennedy.sh) · [Paperless-ngx](https://paperless.kennedy.sh) · [Audiobookshelf](https://audiobooks.kennedy.sh) · Home Assistant · Pi-hole · Filestash
 
 #### Project board
 
